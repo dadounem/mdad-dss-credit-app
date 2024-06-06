@@ -1,0 +1,13 @@
+lightgbm==4.3.0
+matplotlib==3.8.0
+numpy==1.26.4
+pandas==2.2.2
+plotly==5.9.0
+scikit_learn==1.2.2
+scipy==1.13.1
+shap==0.45.1
+st_pages==0.4.5
+streamlit==1.32.0
+streamlit_shap==1.0.2
+xgboost==2.0.3
+ipython
